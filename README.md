@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pritampan2015
 - 👀 I’m interested in ...Competitive Programming
 - 🌱 I’m currently learning ...DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Full Stack Projects
 - 📫 How to reach me ...www.linkedin.com/in/pritam-pan-502a0b1b9
 
 <!---
